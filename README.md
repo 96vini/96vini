@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a mammal and biped from Brazil<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Node.js and Next.js</p>
+<p align="left">I'm a mammal and biped from Brazil<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning React Native and Golang</p>
 
 ###
 
