@@ -14,7 +14,7 @@
 
 <p align="left">I'm a mammal and biped from Brazil<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning React Native and Golang</p>
 
-<h3 align="left">👩‍💻  Stats</h3>
+<h3 align="left">📊  Stats</h3>
 
 ###
 ![GitHub Streak](https://streak-stats.demolab.com?user=96vini&theme=transparent)
