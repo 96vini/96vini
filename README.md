@@ -17,6 +17,7 @@
 <h3 align="left">📊  Stats</h3>
 
 ###
+![Stats](./profile/stats.svg)
 ![GitHub Streak](https://streak-stats.demolab.com?user=96vini&theme=transparent)
 
 ###
